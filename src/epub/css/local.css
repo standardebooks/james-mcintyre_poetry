@@ -6,13 +6,8 @@ section{
 	break-after: page;
 }
 
-article#thomas-conant,
-article#alexander-mclaughlan,
-section#thomas-campbell-preface,
-section#thomas-campbell-poem,
-article#mclntyre-has-a-few-rows,
-article#the-people-all-say-and-declare-it-is-true{
-	margin-top: 8em;
+#the-great-fire-of-ingersoll [epub|type~="bridgehead"] p:first-child{
+	text-align: center;
 }
 
 /* Bridgehead */
