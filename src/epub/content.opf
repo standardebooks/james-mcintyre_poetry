@@ -50,7 +50,7 @@
 		<!-- Book 2: Poems of James McIntyre (2nd Edition), containing extra poems that are not found in the first edition. -->
 		<dc:source>https://www.gutenberg.org/ebooks/36068</dc:source>
 		<dc:source>https://archive.org/details/cihm_11791</dc:source>
-		<meta property="se:word-count">54023</meta>
+		<meta property="se:word-count">53336</meta>
 		<meta property="se:reading-ease.flesch">69.25</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/james-mcintyre_poetry</meta>
 		<dc:creator id="author">James McIntyre</dc:creator>
