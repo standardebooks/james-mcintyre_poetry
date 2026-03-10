@@ -2,6 +2,7 @@
 <se-lint-ignore>
 	<file path="poetry.xhtml">
 		<ignore code="s-023">
+			<line>14681</line>
 			<reason>Lint incorrectly capitalizes a name.</reason>
 		</ignore>
 	</file>
