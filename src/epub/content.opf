@@ -41,7 +41,7 @@
 		<meta property="term" refines="#subject-3">Unknown</meta>
 		<meta property="schema:genre">Poetry</meta>
 		<meta property="schema:additionalType">http://schema.org/Collection</meta>
-		<dc:abstract>A collection of poetry by James McIntyre.</dc:abstract>
+		<meta property="schema:abstract">A collection of poetry by James McIntyre.</meta>
 		<dc:description>
 			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/james-mcintyre"&gt;James McIntyre&lt;/a&gt;, often referred to as the “Cheese Poet” due to his fondness for writing about cheese, published two collections of poems in his lifetime. McIntyre was born in Scotland but emigrated to Canada as a youth. The poems reflect his deep connection to rural Canadian life and landscapes of Ontario, particularly the Thames River region. His poetry focuses on subjects like agriculture, local history, community life, and caseiculture. His most popular work, “Ode on the Mammoth Cheese,” is a humorous, celebratory poem that pays tribute to a massive cheese produced in Ontario weighing over 7,000 pounds. While his style has been criticized for its “cheesiness” or lack of sophistication, his earnest and heartfelt verses offer a charming glimpse into 19th-century Canadian culture and the poet’s passion for his adopted homeland.&lt;/p&gt;
 		</dc:description>
